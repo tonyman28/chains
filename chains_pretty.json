@@ -311,6 +311,7 @@
     "standard": "EIP3091"
   }]
 }, {
+  "icon": "diode",
   "name": "Diode Prenet",
   "chain": "DIODE",
   "rpc": ["https://prenet.diode.io:8443/", "wss://prenet.diode.io:8443/ws"],
@@ -32972,6 +32973,21 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Unite",
+  "chain": "UNITE",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Unite",
+    "symbol": "UNITE",
+    "decimals": 18
+  },
+  "infoURL": "https://unite.io",
+  "shortName": "unite",
+  "chainId": 88899,
+  "networkId": 88899,
+  "status": "incubating"
+}, {
   "name": "F(x)Core Testnet Network",
   "chain": "Fxcore",
   "rpc": ["https://testnet-fx-json-web3.functionx.io:8545"],
@@ -38398,6 +38414,21 @@
   "networkId": 888888,
   "slip44": 60
 }, {
+  "name": "Unite Testnet",
+  "chain": "UNITE",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Testnet Unite",
+    "symbol": "UNITE",
+    "decimals": 18
+  },
+  "infoURL": "https://unite.io",
+  "shortName": "unitetestnet",
+  "chainId": 888991,
+  "networkId": 888991,
+  "status": "incubating"
+}, {
   "name": "Posichain Mainnet Shard 0",
   "chain": "PSC",
   "rpc": ["https://api.posichain.org", "https://api.s0.posichain.org"],
@@ -40467,7 +40498,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "DeepBrainChain",
-    "symbol": "DBC",
+    "symbol": "tDBC",
     "decimals": 18
   },
   "infoURL": "https://www.deepbrainchain.org",
@@ -40478,7 +40509,7 @@
   "slip44": 1,
   "explorers": [{
     "name": "DeepBrainChain Testnet",
-    "url": "https://blockscout-testnet.dbcscan.io",
+    "url": "https://testnet.dbcscan.io",
     "icon": "dbc",
     "standard": "EIP3091"
   }]
@@ -40500,7 +40531,7 @@
   "slip44": 1,
   "explorers": [{
     "name": "DeepBrainChain Mainnet",
-    "url": "https://blockscout.dbcscan.io",
+    "url": "https://www.dbcscan.io",
     "icon": "dbc",
     "standard": "EIP3091"
   }]

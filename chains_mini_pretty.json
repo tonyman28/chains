@@ -20162,6 +20162,19 @@
   "faucets": ["https://spicy-faucet.chiliz.com", "https://tatum.io/faucets/chiliz"],
   "infoURL": "https://chiliz.com"
 }, {
+  "name": "Unite",
+  "chainId": 88899,
+  "shortName": "unite",
+  "networkId": 88899,
+  "nativeCurrency": {
+    "name": "Unite",
+    "symbol": "UNITE",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://unite.io"
+}, {
   "name": "F(x)Core Testnet Network",
   "chainId": 90001,
   "shortName": "dhobyghaut",
@@ -23399,6 +23412,19 @@
   "faucets": [],
   "infoURL": "https://www.v.network"
 }, {
+  "name": "Unite Testnet",
+  "chainId": 888991,
+  "shortName": "unitetestnet",
+  "networkId": 888991,
+  "nativeCurrency": {
+    "name": "Testnet Unite",
+    "symbol": "UNITE",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://unite.io"
+}, {
   "name": "Posichain Mainnet Shard 0",
   "chainId": 900000,
   "shortName": "psc-s0",
@@ -24640,7 +24666,7 @@
   "networkId": 19850818,
   "nativeCurrency": {
     "name": "DeepBrainChain",
-    "symbol": "DBC",
+    "symbol": "tDBC",
     "decimals": 18
   },
   "rpc": ["https://rpc-testnet.dbcwallet.io"],
